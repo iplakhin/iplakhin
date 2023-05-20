@@ -1,16 +1,26 @@
-### Hi there 👋
+## I'm a beginner Software QA Engineer
 
-<!--
-**iplakhin/iplakhin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Testing documentation
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Languages and Tools
+
+![Postman](https://img.shields.io/badge/postman-090909?style=for-the-badge&logo=postman)
+
+![Jira](https://img.shields.io/badge/jira-090909?style=for-the-badge&logo=jira)
+
+![GitHub](https://img.shields.io/badge/github-090909?style=for-the-badge&logo=github)
+
+![DevTools](https://img.shields.io/badge/Devtools-090909?style=for-the-badge&logo=googlechrome)
+
+![MySQL](https://img.shields.io/badge/mysql-090909?style=for-the-badge&logo=mysql)
+
+![CharlesProxy](https://img.shields.io/badge/charlesproxy-090909?style=for-the-badge&logo=https://github.com/iplakhin/iplakhin/assets/charles.ico)
+
+![Python](https://img.shields.io/badge/python-090909?style=for-the-badge&logo=python)
+
+
+### Contacts
+
+![Linkedin](https://img.shields.io/badge/LinkedIn-090909?style=social&logo=linkedin)  ![Telegram](https://img.shields.io/badge/Telegram-090909?style=social&logo=telegram)
